@@ -7,8 +7,8 @@
 ##########
 # CollectionBuilder TYPE
 # [options: sa = Stand Alone | cdm = contentdm | gh = Github Pages]
-cb-type: cdm
-layouts_dir: cdm
+cb-type: gh
+layouts_dir: gh
 #
 ###############
 
