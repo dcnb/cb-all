@@ -1,0 +1,1 @@
+{% if page.format contains 'image' %}{% include cdm/download/image.html %}{% elsif page.format contains 'pdf' %}{% include cdm/download/pdf.html %}{% elsif page.format contains 'audio' %}{% include cdm/download/mp3.html %}{% elsif page.format contains 'video' %}{% include cdm/download/video.html %}{%endif%}
