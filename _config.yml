@@ -16,9 +16,9 @@ layouts_dir: gh
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://collectionbuilder.github.io
+url: https://dcnb.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /collectionbuilder
+baseurl: /cb-all
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 
